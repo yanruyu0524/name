@@ -14,3 +14,9 @@ body,
 .wrap {
     background: pink;
 }
+
+header {
+    width: 100%;
+    height: 40px;
+    background: skyblue;
+}
